@@ -27,7 +27,7 @@ This project explores new hardware technologies and new computational frameworks
 
 ## Resources
 
-For more information on this work, please refer to the thesis PDF included in the repository: (tesis.pdf).
+For more information on this work, please refer to the thesis PDF included in the repository: tesis.pdf
 
 ---
 
