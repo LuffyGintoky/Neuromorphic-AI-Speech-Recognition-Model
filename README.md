@@ -27,7 +27,7 @@ This project explores new hardware technologies and new computational frameworks
 
 ## Resources
 
-For more information on this work, please refer to the thesis PDF included in the repository: [Spin Torque Nano-Oscillator as Nanoelectronic Component for Artificial Intelligence Hardware](Tesis%20Corregida%20(1).pdf)&#8203;:contentReference[oaicite:0]{index=0}.
+For more information on this work, please refer to the thesis PDF included in the repository: (tesis.pdf).
 
 ---
 
